@@ -14,7 +14,10 @@ Options:
 
 ### Example
 - Show information
+#### Command
 ```python bus.py -i```
+
+#### Result
 ```
  ------- BeiJing Real Bus -------
 |                                |
@@ -24,7 +27,10 @@ Options:
 ```
 
 - Monitor Coming Bus 438
+#### Command
 ```python bus.py 438```
+
+#### Result
 ```
 +----+--------------------+------+-----+----+--------------------+------+
 | #0 |   UP:5:30-21:00    | Bus0 |     | #1 |  DOWN:6:00-22:00   | Bus1 |
