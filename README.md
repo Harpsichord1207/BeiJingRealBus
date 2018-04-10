@@ -14,10 +14,10 @@ Options:
 
 ### Example
 - Show information
-#### Command
+##### Command
 ```python bus.py -i```
 
-#### Result
+##### Result
 ```
  ------- BeiJing Real Bus -------
 |                                |
@@ -27,10 +27,10 @@ Options:
 ```
 
 - Monitor Coming Bus 438
-#### Command
+##### Command
 ```python bus.py 438```
 
-#### Result
+##### Result
 ```
 +----+--------------------+------+-----+----+--------------------+------+
 | #0 |   UP:5:30-21:00    | Bus0 |     | #1 |  DOWN:6:00-22:00   | Bus1 |
@@ -47,7 +47,7 @@ Options:
 ...
 ...
 ```
-#### 'B' in the column Bus1 means a bus near XiaoQingHe station
+##### 'B' in the column Bus1 means a bus near XiaoQingHe station
 
 ### Requirements
 ```
